@@ -1,6 +1,6 @@
 # AI-CryptoTrader
 # Ensemble Trading Bot for Cryptocurrencies
-#Introduction
+# Introduction
 This project is a state-of-the-art cryptocurrency trading bot that uses ensemble methods to combine the predictions of multiple algorithms. The goal of this project is to provide a robust and reliable trading strategy for cryptocurrencies, which are notoriously volatile and difficult to predict.
 
 # Algorithms Used
