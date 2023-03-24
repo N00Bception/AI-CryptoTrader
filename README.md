@@ -18,6 +18,9 @@ By combining the output of these algorithms, the ensemble method is able to prod
 # Programming Language and Trading Platform
 This trading bot is written in Python, which is a popular programming language for data analysis, machine learning, and web development. It is designed to connect to the Binance trading platform, which is one of the most popular cryptocurrency exchanges.
 
+# Azure Integration
+This project can also rely on Azure to improve the efficiency and scalability of its ensemble methods. Azure provides a powerful and flexible cloud computing platform that can be used to run machine learning algorithms and manage large datasets. By integrating with Azure, this project can take advantage of its powerful computing resources to train and optimize the ensemble method.
+
 # How It Works
 The trading bot uses a combination of technical indicators and machine learning algorithms to generate predictions about the future price movements of cryptocurrencies. These predictions are then used to place buy and sell orders on the Binance exchange.
 
@@ -26,10 +29,11 @@ The ensemble method is designed to be flexible and adaptable to changing market 
 # Getting Started
 To get started with this trading bot, you will need to:
 
-Install Python and the required Python libraries.
-Create an API key and secret on the Binance exchange.
-Clone the GitHub repository and configure the settings file.
-Run the trading bot using the command line interface.
+~ Install Python and the required Python libraries.
+~ Create an API key and secret on the Binance exchange.
+~ Clone the GitHub repository and configure the settings file.
+~ Run the trading bot using the command line interface.
+
 Detailed instructions for each of these steps can be found in the documentation.
 
 # Risks and Considerations
