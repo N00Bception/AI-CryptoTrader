@@ -30,8 +30,11 @@ The ensemble method is designed to be flexible and adaptable to changing market 
 To get started with this trading bot, you will need to:
 
 ~ Install Python and the required Python libraries.
+
 ~ Create an API key and secret on the Binance exchange.
+
 ~ Clone the GitHub repository and configure the settings file.
+
 ~ Run the trading bot using the command line interface.
 
 Detailed instructions for each of these steps can be found in the documentation.
