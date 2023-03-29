@@ -12,9 +12,13 @@ In this project, we use the scikit-learn library to implement the random forest 
 The following hyperparameters can be tuned to improve the performance of the random forest:
 
 ~ n_estimators: The number of decision trees in the forest.
+
 ~ max_features: The maximum number of features used in each decision tree.
+
 ~ max_depth: The maximum depth of each decision tree.
+
 ~ min_samples_split: The minimum number of samples required to split a node.
+
 ~ min_samples_leaf: The minimum number of samples required to be at a leaf node.
 
 In order to avoid overfitting, we use k-fold cross-validation to select the best hyperparameters for the random forest.
