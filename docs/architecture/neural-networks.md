@@ -14,7 +14,9 @@ The LSTM network is trained using a process called backpropagation, in which the
 Before the data can be used to train the neural network, it must be preprocessed to ensure that it is in a suitable format. The preprocessing steps typically involve:
 
 ~ Normalizing the data to a standard scale
+
 ~ Splitting the data into training and testing sets
+
 ~ Reshaping the data into a format that can be input to the neural network
 # Hyperparameter Tuning
 The performance of the neural network depends on several hyperparameters, such as the number of layers, the number of neurons in each layer, and the learning rate. These hyperparameters must be tuned to find the optimal values that maximize the accuracy of the predictions.
