@@ -16,10 +16,6 @@ The `design/` directory contains documentation on the design of AI-CryptoTrader,
 
 The `src/` directory contains the implementation of AI-CryptoTrader, including the various algorithms and models used, as well as utilities for data processing, visualization, and trading.
 
-## Testing
-
-The `tests/` directory contains unit tests for various components of AI-CryptoTrader, including data processing, trading, and visualization.
-
 ## License
 
 AI-CryptoTrader is released under the MIT license. See the `LICENSE` file for more information.
