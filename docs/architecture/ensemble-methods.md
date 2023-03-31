@@ -9,22 +9,22 @@ In our case, we use ensemble methods to combine the output of several algorithms
 ## How Ensemble Methods Work
 Ensemble methods work by taking the output of several models and combining them to produce a final prediction. There are several ways to combine the models, including:
 
-~ Bagging: This involves training multiple models on different subsets of the data and then combining the predictions. Bagging can help to reduce overfitting and improve the accuracy of the model.
+~ `Bagging`: This involves training multiple models on different subsets of the data and then combining the predictions. Bagging can help to reduce overfitting and improve the accuracy of the model.
 
-~ Boosting: This involves training multiple models sequentially, with each model focusing on the data points that the previous models struggled with. Boosting can help to improve the accuracy of the model and reduce bias.
+~ `Boosting`: This involves training multiple models sequentially, with each model focusing on the data points that the previous models struggled with. Boosting can help to improve the accuracy of the model and reduce bias.
 
-~ Stacking: This involves training several models and then using another model to combine their predictions. Stacking can help to improve the accuracy of the model and reduce overfitting.
+~ `Stacking`: This involves training several models and then using another model to combine their predictions. Stacking can help to improve the accuracy of the model and reduce overfitting.
 
 In our project, we use a combination of bagging and stacking to create our ensemble method. We first train several models using bagging, and then use a stacking model to combine their predictions.
 
 ## Evaluating Ensemble Methods
 Evaluating ensemble methods can be challenging, as there are many factors to consider. Some common methods for evaluating ensemble methods include:
 
-~ Cross-validation: This involves splitting the data into several parts and then training and testing the model on different combinations of the parts. Cross-validation can help to estimate the accuracy of the model and identify potential issues with overfitting.
+~ `Cross-validation`: This involves splitting the data into several parts and then training and testing the model on different combinations of the parts. Cross-validation can help to estimate the accuracy of the model and identify potential issues with overfitting.
 
-~ Ensemble diversity: This involves measuring the diversity of the models in the ensemble, which can help to identify whether the ensemble is likely to be more accurate than any individual model.
+~ `Ensemble diversity`: This involves measuring the diversity of the models in the ensemble, which can help to identify whether the ensemble is likely to be more accurate than any individual model.
 
-~ Ensemble size: This involves varying the number of models in the ensemble to see how it affects performance. This can help to identify the optimal number of models to use in the ensemble.
+~ `Ensemble size`: This involves varying the number of models in the ensemble to see how it affects performance. This can help to identify the optimal number of models to use in the ensemble.
 
 In our project, we evaluate our ensemble method using cross-validation and ensemble diversity. We also experiment with different numbers of models to identify the optimal ensemble size.
 
