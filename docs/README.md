@@ -26,5 +26,5 @@ We welcome contributions to AI-CryptoTrader! Please see the `CONTRIBUTING.md` fi
 
 ## Contact
 
-If you have any questions or feedback on AI-CryptoTrader, please don't hesitate to reach out to us at contact@ai-cryptotrader.com.
+If you have any questions or feedback on AI-CryptoTrader, please don't hesitate to reach out to us at contact@ai-cryptotrader.com or at +212766644575.
 
