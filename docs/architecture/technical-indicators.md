@@ -2,7 +2,7 @@
 In addition to machine learning algorithms, this trading bot also uses a number of technical indicators to make predictions about future price movements. These technical indicators are calculated using historical price data, and they can provide valuable insights into market trends and momentum.
 
 # Moving Average Convergence Divergence (MACD)
-The MACD is a popular technical indicator that is used to identify trends and momentum in financial markets. It is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA. A 9-period EMA of the MACD, called the "signal line," is then plotted on top of the MACD line to provide buy and sell signals.
+The MACD is a popular technical indicator that is used to identify trends and momentum in financial markets. It is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA. A 9-period EMA of the MACD, called the "signal line", is then plotted on top of the MACD line to provide buy and sell signals.
 
 # Relative Strength Index (RSI)
 The RSI is another popular technical indicator that is used to measure the strength of a market trend. It is calculated by comparing the average gains and losses over a specific time period, typically 14 days. The RSI value is then plotted on a scale from 0 to 100, with values above 70 indicating an overbought market and values below 30 indicating an oversold market.
