@@ -4,16 +4,16 @@ Sequence diagrams are an essential tool for modeling complex interactions betwee
 ## Key Concepts
 Before we dive into sequence diagrams, let's first review some key concepts:
 
-## Actors
+### Actors
 An actor is any entity that interacts with the system we're modeling. This could be a person, a piece of hardware, or even another system.
 
-## Lifelines
+### Lifelines
 A lifeline represents the existence of an actor or component over time. It is typically represented by a vertical line.
 
-## Messages
+### Messages
 Messages are the means by which actors communicate with each other. They can be synchronous or asynchronous, and can carry data or simply trigger an action.
 
-## Activation
+### Activation
 Activation represents the period of time during which a component is executing a particular operation.
 
 ## Creating Sequence Diagrams
